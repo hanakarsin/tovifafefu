@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://dilifosawo.pages.dev/sitemap.xml
